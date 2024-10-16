@@ -1,4 +1,4 @@
-Latihan :
+# Latihan :
 Lakukan enkripsi Playfair Cihper pada plaintext:
 
 GOOD BROOM SWEEP CLEAN
@@ -8,10 +8,11 @@ JUNK FOOD AND HEALTH PROBLEMS
 Dengan kunci “TEKNIK INFORMATIKA”
 
 Kumpulkan : Capture hasil Enkrip dan Dekripnya, beserta Link Githubnya.
-![Screenshot 2024-10-16 133733](https://github.com/user-attachments/assets/743b4b6b-3a12-45fd-96d1-302a11b43f94)
-![Screenshot 2024-10-16 133733](https://github.com/user-attachments/assets/c1b57aeb-1e6a-4235-8bc0-846ca928aa58)
-![Screenshot 2024-10-16 133805](https://github.com/user-attachments/assets/b55ec948-ab1d-4044-9873-6c385695f797)
-![Screenshot 2024-10-16 133823](https://github.com/user-attachments/assets/90aece83-67a3-40dd-87af-ec4280e188c5)
-![Screenshot 2024-10-16 133914](https://github.com/user-attachments/assets/574a99d0-7431-4f78-98dd-1938d8b04d55)
-![Screenshot 2024-10-16 133938](https://github.com/user-attachments/assets/71697fcc-8ae1-48bc-b87a-2655af28a14a)
-![Screenshot 2024-10-16 133956](https://github.com/user-attachments/assets/ba779241-3b5f-49e4-a4fd-84baacd36485)
+
+# Capture
+![Screenshot 2024-10-16 133733](https://github.com/user-attachments/assets/3c56600e-675f-45d2-9479-7b85db711b35)
+![Screenshot 2024-10-16 133805](https://github.com/user-attachments/assets/f5092a95-bf17-4810-be00-0a0c711943d9)
+![Screenshot 2024-10-16 133823](https://github.com/user-attachments/assets/25b0a9a5-bc43-44f7-95d7-9aa826f5a135)
+![Screenshot 2024-10-16 133914](https://github.com/user-attachments/assets/a89d2d6c-8b22-487a-815c-39bda394ae78)
+![Screenshot 2024-10-16 133938](https://github.com/user-attachments/assets/df3819ad-9d62-4fc7-9190-55ab129f7a35)
+![Screenshot 2024-10-16 133956](https://github.com/user-attachments/assets/5f0f5baf-1e31-4856-9309-fb63983f4015)
